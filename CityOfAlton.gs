@@ -1,6 +1,6 @@
 function mainAlton() {
   let accounts = {
-    # REDACTED PERSONAL INFORMATION
+    // REDACTED PERSONAL INFORMATION
   };
   let options = getOptions();
   for (const [k, v] of Object.entries(accounts)) {
